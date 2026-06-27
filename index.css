@@ -167,3 +167,18 @@ p{
     background-color: white;
     margin: 5px;
 }
+.numberfild{
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+.symbolfild{
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+.number-name , .symbol-name{
+    font-weight: 700;
+}
